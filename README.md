@@ -117,3 +117,6 @@ Assume the stack uses an int array, a top index, and a fixed maximum size.`
 
 * The workflow minimizes manual coding while maintaining clarity and correctness.
 
+
+**After all the video is recorded and can be accessed using this link:**
+[AI WorkFlow practical implementation video](https://www.loom.com/share/a4e8bc9490a84f2ebc1af21fa4c56a1d)
