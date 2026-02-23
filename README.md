@@ -94,12 +94,12 @@ The JSON specification acts as the handoff artifact that connects the two tools.
 
 `Generate a JSON specification for a custom Java stack implementation.
 The stack should be called MyStack and use an array-based approach.
-Include:
-- Method name
-- Parameters and types
-- Method logic
-- Constraints such as stack overflow handling
-  Focus only on the push(int value) method.`
+Include:`
+- `Method name`
+- `Parameters and types`
+- `Method logic`
+- `Constraints such as stack overflow handling`
+  `Focus only on the push(int value) method.`
 
 **Prompt 2 – IntelliJ IDEA (Code Generation)**
 ---------------------------------------
