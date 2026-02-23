@@ -56,3 +56,7 @@ Class Name: MyStack
 Function Implemented: push(int value)
 
 Implementation Type: Array-based stack with fixed size
+
+AI Tools Used:
+---------------
+This project uses ChatGPT as a Chat-based AI to convert a natural language description of a custom MyStack requirement into a structured specification (JSON) defining the stack function’s behavior. The generated specification is then passed to IntelliJ IDEA’s IDE AI, which uses it to produce the actual Java implementation of the push(int value) method. Together, these tools demonstrate a simple AI-to-AI workflow from problem definition to executable Java code.
