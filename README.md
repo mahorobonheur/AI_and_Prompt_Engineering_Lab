@@ -71,7 +71,8 @@ The workflow is designed to move from problem understanding to code generation b
 Data Flow Between Tools
 -----------------------
 
-**Tool 1** – ChatGPT (Chat AI)
+**Tool 1 – ChatGPT (Chat AI)**
+------------------------------
 
 **Input:** A natural language description of the custom MyStack requirement
 
@@ -118,5 +119,7 @@ Assume the stack uses an int array, a top index, and a fixed maximum size.`
 * The workflow minimizes manual coding while maintaining clarity and correctness.
 
 
+**Video**
+========
 **After all the video is recorded and can be accessed using this link:**
 [AI WorkFlow practical implementation video](https://www.loom.com/share/a4e8bc9490a84f2ebc1af21fa4c56a1d)
